@@ -1,0 +1,30 @@
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/appsettings.Development.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/appsettings.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/ICE TASK 2.1.staticwebassets.runtime.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/ICE TASK 2.1
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/ICE TASK 2.1.deps.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/ICE TASK 2.1.runtimeconfig.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/ICE TASK 2.1.dll
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/bin/Debug/net8.0/ICE TASK 2.1.pdb
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.AssemblyInfoInputs.cache
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.AssemblyInfo.cs
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.csproj.CoreCompileInputs.cache
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.MvcApplicationPartsAssemblyInfo.cache
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.RazorAssemblyInfo.cache
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.RazorAssemblyInfo.cs
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/staticwebassets/msbuild.ICE TASK 2.1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/staticwebassets/msbuild.build.ICE TASK 2.1.props
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ICE TASK 2.1.props
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ICE TASK 2.1.props
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/scopedcss/bundle/ICE TASK 2.1.styles.css
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/scopedcss/projectbundle/ICE TASK 2.1.bundle.scp.css
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.dll
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/refint/ICE TASK 2.1.dll
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.pdb
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ICE TASK 2.1.genruntimeconfig.cache
+/Users/broghankendra/ICE TASK 2.1/ICE TASK 2.1/obj/Debug/net8.0/ref/ICE TASK 2.1.dll
